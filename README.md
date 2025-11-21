@@ -2,7 +2,7 @@
 
 ---
 
-![Main page](./main.png)
+![Main page](./Main.png)
 
 ---
 
