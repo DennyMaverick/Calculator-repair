@@ -172,8 +172,6 @@ h6 {
   color: #2f2f2f;
 }
 
-
-
 .calc-section {
   padding: 40px 50px;
   background-color: #2b2b2b;
@@ -252,7 +250,7 @@ h6 {
   border: 1px solid #9a9a9a;
   font-size: 24px;
   font-weight: 700;
-  color: #039be5;
+  color: #d76a38;
   text-align: center;
 }
 
@@ -314,7 +312,7 @@ h6 {
   right: 0;
   bottom: 0;
   background-color: #2b2b2b;
-color: #fff;
+  color: #fff;
   box-shadow: -10px 0px 25px rgba(143, 179, 195, 0.685);
 }
 
