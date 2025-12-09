@@ -365,3 +365,84 @@ h6 {
 .rooms-radio-real:checked + .rooms-radio-fake {
   background-color: #e4630e;
 }
+
+@media (max-width: 768px) {
+  .heading-title {
+    font-size: 28px;
+  }
+  .heading-desc {
+    font-size: 18px;
+  }
+
+  .title__inline {
+    font-size: 18px;
+  }
+
+  .input-short {
+    width: 30px;
+    height: 20px;
+  }
+
+  .calc-price-title {
+    font-size: 25px;
+  }
+
+  .calc-price-value {
+    font-size: 18px;
+  }
+
+  .rooms-radio-fake {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 17px;
+  }
+
+  .title-bold {
+    font-size: 15px;
+  }
+
+  .title-lite {
+    font-size: 13px;
+  }
+
+  .heading-title {
+    margin-bottom: 30px;
+  }
+}
+
+@media (max-width: 576px) {
+  .heading-title {
+    font-size: 19px;
+  }
+  .heading-desc {
+    font-size: 13px;
+  }
+
+  .title__inline {
+    font-size: 12px;
+  }
+
+  .input-short {
+    width: 20px;
+    height: 15px;
+    font-size: 12px;
+  }
+
+  .calc-price-title {
+    font-size: 17px;
+  }
+}
+
+/* $breakpoints: (
+  mobile-l: 0,
+  mobile-md: 450px,
+  mobile-sm: 576px,
+  mobile: 768px,
+  mobile-up: 769px,
+  ipad-air: 820px,
+  tablet: 992px,
+  tablet-landscape: 1180px,
+  notebook: 1200px,
+  desktop: 1400px,
+) !default; */
